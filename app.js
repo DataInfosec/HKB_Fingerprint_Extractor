@@ -7,8 +7,8 @@ const _ = require('lodash')
 var pool = mysql.createPool({
     host: 'localhost',
     user: 'root',
-    password: 'Samuel_234',
-    database: 'hackerbella_db'
+    password: '*****',
+    database: '*******'
 })
 
 
