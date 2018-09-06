@@ -1,0 +1,17 @@
+{
+  "name": "hkb_fingerprint_extractor",
+  "version": "1.0.0",
+  "description": "Helps extracts fingerprint from heckerbella db",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "graceful-fs": "^4.1.11",
+    "lodash": "^4.17.10",
+    "mysql": "^2.16.0",
+    "progress": "^2.0.0"
+  }
+}
